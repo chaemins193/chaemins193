@@ -15,13 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>📖개발경험</h3>
+<h3>👩‍💻 Chaemin</h3>
+<div>
+<img src="https://img.shields.io/badge/Tistory-3F0099?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=shinlatitia)](https://solved.ac/shinlatitia)
+</div>&nbsp;
+
+<h3>📖 개발 경험</h3>
 <div>SSAFY 2기
   (2019.07.01~2020.06.30)</div>&nbsp;
 <div>KT 인턴
   (2020.12.21~2021.02.19)</div>&nbsp;
 
-<h3>🛠기술스택</h3>
+<h3>🛠 기술 스택</h3>
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
