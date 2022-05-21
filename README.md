@@ -17,13 +17,10 @@ Here are some ideas to get you started:
 
 <h3>👩‍💻 Chaemin</h3>
 <div>
-<img src="https://img.shields.io/badge/Tistory-3F0099?style=flat-square&logo=Blogger&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <a href="https://meahc.tistory.com"><img src="https://img.shields.io/badge/Tistory-3F0099?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </div>&nbsp;
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={shinlatitia})](https://solved.ac/{shinlatitia})
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=shinlatitia)](https://solved.ac/shinlatitia)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shinlatitia)](https://solved.ac/shinlatitia)
 
 <h3>📖 개발 경험</h3>
 <div>SSAFY 2기
