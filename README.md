@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <h3>📖개발경험</h3>
-<div>SSAFY 2기&nbsp;(2019.07.01~2020.06.30)</div>&nbsp;
-<div>KT 인턴&nbsp;(2020.12.21~2021.02.19)</div>&nbsp;
+<div>SSAFY 2기
+  (2019.07.01~2020.06.30)</div>&nbsp;
+<div>KT 인턴
+  (2020.12.21~2021.02.19)</div>&nbsp;
 
 <h3>🛠기술스택</h3>
 <div>
