@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, World 👋
 
 <!--
 **chaemins193/chaemins193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,13 +23,9 @@ Here are some ideas to get you started:
   </div>
   <div>
     <a href="https://solved.ac/shinlatitia"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=shinlatitia"/>
-  </div>&nbsp;
-  <div>
-    <img src="http://mazandi.herokuapp.com/api?handle=shinlatitia&theme=warm"/>
   </div>
  </div>
-  
-  
+
  <div>
   <h3>🛠 Tech Stacks</h3>
   <div>
