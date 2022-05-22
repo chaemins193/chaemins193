@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 <h3>👩‍💻 Chaemin</h3>
 <div>
 <a href="https://meahc.tistory.com"><img src="https://img.shields.io/badge/Tistory-3F0099?style=flat-square&logo=Blogger&logoColor=white"/></a>
-</div>&nbsp;
+</div>
+<div>
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=shinlatitia)](https://solved.ac/shinlatitia)
+</div>
 
 <h3>📖 개발 경험</h3>
 <div>SSAFY 2기
