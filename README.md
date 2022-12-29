@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h2>Hello, World 👋</h2>
+  <h2>I'm Junior Backend Engineer 👋</h2>
   <h3>👩‍💻 Chaemin</h3>
   <a href="https://meahc.tistory.com"><img src="https://img.shields.io/badge/Tistory-3F0099?style=for-the-badge&logo=Blogger&logoColor=white"/></a>
   <br>
